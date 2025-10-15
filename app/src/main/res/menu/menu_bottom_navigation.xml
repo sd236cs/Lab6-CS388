@@ -8,7 +8,7 @@
         android:title="Park"
         app:showAsAction="ifRoom" />
     <item
-        android:id="@+id/action_schedules"
+        android:id="@+id/campgrounds"
         android:enabled="true"
         android:icon="@drawable/outline_camping_24"
         android:title="Campground"
